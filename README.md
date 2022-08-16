@@ -4,8 +4,8 @@ Sophia Mendonça é desenvolvedora, jornalista, escritora, apresentadora, produt
 
 ### Sobre a autora
 
-- [Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/) |
-- [GitHub](https://github.com/sophiasilvademendonca) |
+- [Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/)
+- [GitHub](https://github.com/sophiasilvademendonca)
 - [YouTube](https://www.youtube.com/c/MundoAutista) 
 - 
 ### Background
