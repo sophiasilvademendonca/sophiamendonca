@@ -1,7 +1,7 @@
 # Sophia Mendonça (2022)
-[Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/)
-[GitHub](https://github.com/sophiasilvademendonca)
-[YouTube](https://www.youtube.com/c/MundoAutista)
+[Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/) |
+[GitHub](https://github.com/sophiasilvademendonca) |
+[YouTube](https://www.youtube.com/c/MundoAutista) |
 
 ### Sobre a autora
 =
