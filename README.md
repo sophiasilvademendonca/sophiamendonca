@@ -1,12 +1,13 @@
 # Sophia Mendonça (2022)
-[Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/) |
-[GitHub](https://github.com/sophiasilvademendonca) |
-[YouTube](https://www.youtube.com/c/MundoAutista) |
 
-### Sobre a autora
-=
 Sophia Mendonça é desenvolvedora, jornalista, escritora, apresentadora, produtora de conteúdo e mestre em Comunicação Social, na linha de pesquisa Comunicação, Territorialidades e Vulnerabilidades, pela Universidade Federal de Minas Gerais (UFMG). 
 
+### Sobre a autora
+
+- [Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/) |
+- [GitHub](https://github.com/sophiasilvademendonca) |
+- [YouTube](https://www.youtube.com/c/MundoAutista) |
+- 
 ### Background
 
 Sophia é autora de nove livros e membro do Afetos, grupo de pesquisa em Comunicação, Acessibilidade e Vulnerabilidades. Seus trabalhos giram em torno de autismo e neurodiversidade, acessibilidades afetiva e amorosa, questões de gênero, etnografia virtual, tecnlogia, comunicação pelas mídias digitais e narrativas de vida.
