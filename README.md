@@ -7,7 +7,7 @@ Sophia Mendonça é desenvolvedora, jornalista, escritora, apresentadora, produt
 - [Linkedin](https://www.linkedin.com/in/sophia-mendon%C3%A7a-b88550212/)
 - [GitHub](https://github.com/sophiasilvademendonca)
 - [YouTube](https://www.youtube.com/c/MundoAutista) 
-- 
+
 ### Background
 
 Sophia é autora de nove livros e membro do Afetos, grupo de pesquisa em Comunicação, Acessibilidade e Vulnerabilidades. Seus trabalhos giram em torno de autismo e neurodiversidade, acessibilidades afetiva e amorosa, questões de gênero, etnografia virtual, tecnlogia, comunicação pelas mídias digitais e narrativas de vida.
@@ -25,9 +25,9 @@ Sophia é autora de nove livros e membro do Afetos, grupo de pesquisa em Comunic
 - *Centro Universitário de Belo Horizonte*: Graduação em Jornalismo (2015-2019)
 
 ### Locaus de Trabalho
-*Raia Drogasil RD* (desde 2022)
-*Mundo Autista* (desde 2015)
+= *Raia Drogasil RD* (desde 2022)
+= *Mundo Autista* (desde 2015)
 
 ### Prêmios
 
-Em 2016, Sophia recebeu o Grande Colar do Mérito Legislativo de Belo Horizonte, a maior honraria do legislativo municipal, tornando-se a pessoa mais jovem a receber essa homenagem. Em 2019, recebeu o Prêmio de boas práticas do Erasmus+, programa da União Europeia para os domínios da Educação, da Formação, da Juventude e do Desporto para o período de 2014 a 2020, com vista a apoiar a execução da Agenda Política Europeia para a justiça social, a inclusão, o crescimento e o emprego.
+Em 2016, Sophia recebeu o Grande Colar do Mérito Legislativo de Belo Horizonte, a maior honraria do legislativo municipal, tornando-se a pessoa mais jovem a receber essa homenagem. Em 2019, recebeu o Prêmio de boas práticas do Erasmus+, programa da União Europeia para os domínios da Educação, da Formação, da Juventude e do Desporto para o período de 2014 a 2020, com vista a apoiar a execução da Agenda Política Europeia para a justiça social, a inclusão, o crescimento e o emprego
